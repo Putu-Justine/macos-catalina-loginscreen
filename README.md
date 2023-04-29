@@ -15,6 +15,7 @@ This is my own take on making a LightDM WebKit2 Greeter theme inspired from OSX 
 
 # Installation
 Want to install LightDM WebKit2 Greeter? It's in [here.](https://wiki.archlinux.org/title/LightDM#Greeter) (Arch/Arch Based Linux)
+
 Clone the theme and copy to the desired folders
 ```
 git clone https://github.com/Putu-Justine/macos-catalina-loginscreen.git
