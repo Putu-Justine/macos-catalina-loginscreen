@@ -1,6 +1,6 @@
 # What's this?
-This is my own take on making a login screen inspired from OSX Catalina. Based on my dotfiles.
-# Status of this rice
+This is my own take on making a LightDM WebKit2 Greeter theme inspired from OSX Catalina. Based on my dotfiles.
+# Status of this themes
 - DE Switcher : ✅
 - Time & Date : ✅
 - Shutdown button : ✅
@@ -13,12 +13,13 @@ This is my own take on making a login screen inspired from OSX Catalina. Based o
 | --- | --- |
 | **Login Screen/Lockscreen** | ![lightdm](https://github.com/Putu-Justine/macos-catalina-loginscreen/blob/master/.github-assets/screenshots/loginscreen.png) |
 
-# Installation ([How to install LightDM WebKit2 Greeter on Arch Linux](https://wiki.archlinux.org/title/LightDM#Greeter))
+# Installation
+Want to install LightDM WebKit2 Greeter? It's in [here.](https://wiki.archlinux.org/title/LightDM#Greeter) (Arch/Arch Based Linux)
 Clone the theme and copy to the desired folders
 ```
 git clone https://github.com/Putu-Justine/macos-catalina-loginscreen.git
 cd macos-catalina-loginscreen
-sudo cp -r lightdm-themes/* /usr/share/lightdm-webkit/themes
+sudo cp -r macos-catalina /usr/share/lightdm-webkit/themes
 ```
 Now, open /etc/lightdm/lightdm-webkit2-greeter.conf and edit this line
 ```
