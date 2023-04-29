@@ -1,0 +1,6 @@
+[theme]
+name=macos-catalina
+description=macos catalina theme for lightdm webkit2 greeter
+engine=lightdm-webkit-greeter
+url=index.html
+session=
